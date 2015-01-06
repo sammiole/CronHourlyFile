@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
 
-git pull origin
+git pull origin master
