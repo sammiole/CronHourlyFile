@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-
-git pull origin master
+cd /var/local/config
+sudo git pull origin master
 
 #yoyoyo
